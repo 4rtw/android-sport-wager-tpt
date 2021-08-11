@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.SportWagerTPT" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/Camel</item>
+        <item name="colorPrimaryDark">@color/Lava</item>
+        <item name="colorAccent">@color/Carrot_orange</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.SportWagerTPTNoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/Camel</item>
+        <item name="colorPrimaryDark">@color/Lava</item>
+        <item name="colorAccent">@color/Carrot_orange</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="splashScreenTheme" parent="@android:style/Theme.DeviceDefault.Light.NoActionBar">
+    </style>
+</resources>
